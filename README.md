@@ -5,13 +5,12 @@
 
 
 
-
 ### Frequently Used Lnaguages and Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3thu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadh1l&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=S3thu&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Chatakk&label=PROFILE+VIEWS)
 
 
